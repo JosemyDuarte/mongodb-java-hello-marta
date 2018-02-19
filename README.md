@@ -9,3 +9,6 @@ docker run --name some-mongo -it --rm -p 27017:27017 mongo
 ```
 
 With mongo running on your machine, feel free to execute the code to see the magic.
+
+> [MongoDB tutorial](https://mongodb.github.io/mongo-java-driver/3.6/driver/tutorials/)
+> [MongoDB quickstart](https://mongodb.github.io/mongo-java-driver/3.6/driver/getting-started/quick-start/)
