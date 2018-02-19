@@ -39,7 +39,6 @@ public class App {
 
             table.insertOne(document);
 
-
             /**** Find and display ****/
 
             table.find(eq("name", "marta"))
